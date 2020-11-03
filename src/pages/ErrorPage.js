@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Error = () => {
+const ErrorPage = () => {
     return (
         <div>
             Error Page
         </div>
     )
 }
-export default Error;
+export default ErrorPage;
